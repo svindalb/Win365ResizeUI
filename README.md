@@ -5,10 +5,6 @@ Cloud PCs in a tenant and **resizing** (upgrading) or **downsizing** a single Cl
 another available license of the **same edition**.
 
 - Script: [`W365_ResizeUI.ps1`](./W365_ResizeUI.ps1)
-- Backup of the previous version: `W365_StaleIntuneDeviceCleanup.ps1.bak`
-
-> This tool was repurposed from the original "stale Intune device cleanup" script
-> (now the `.bak` backup) into a "Cloud PC resize" tool.
 
 ---
 
